@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EspressoTestCases</string>
+    <string name="register">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    //error messages
+    <string name="first_name_required">First name required</string>
+    <string name="last_name_required">Last name required</string>
+    <string name="email_required">Email required</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="password_required">Password required</string>
+    <string name="invalid_password">Invalid password </string>
+    <string name="password_not_match">Password did not match</string>
+    <string name="confirm_password_required">Confirm Password required</string>
+    <string name="button_pick_contact">Pick Number</string>
+
+    <string-array name="colors_array">
+        <item>White</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Red</item>
+    </string-array>
+</resources>
